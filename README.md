@@ -1,5 +1,9 @@
 # CHE2410-Project-2
 
+
+
+
+## Modeling and Analysis of the Sodium Thiosulfate-Hydrogen Peroxide Exothermic Reaction: A Comprehensive Study on Reaction Kinetics, Parameter Estimation, and Sensitivity Analysis
 1) Background and rationale for analysis
 2) Explanation and presentation of problem and data
 3) Parameter and data fitting
