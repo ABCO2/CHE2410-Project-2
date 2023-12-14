@@ -7,6 +7,8 @@ The sodium thiosulfate-hydrogen peroxide reaction has been the subject of numero
 
 The hydrogen peroxide sodium thiosulfate reaction is a chemical reaction between hydrogen peroxide (H2O2) and sodium thiosulfate (Na2S2O3). When hydrogen peroxide is mixed with sodium thiosulfate, a vigorous bubbling and frothing occurs. This reaction produces water, sodium sulfate, and oxygen gas as byproducts. It is an exothermic reaction, meaning that it releases heat energy. Overall, the hydrogen peroxide sodium thiosulfate reaction is a fascinating display of chemical transformation, often used in experiments or demonstrations due to its visually captivating nature. The reac
 
+2Na2S2O3 + 4H2O2 --> Na2S3O6 + Na2SO4 + 4H2O
+
 ### b) Objective of the study
 In this study, we aim to provide a comprehensive analysis of this reaction by investigating its multiplicity, stability, and sensitivity. By employing modeling techniques and conducting in-depth analyses, this comprehensive study will contribute to our fundamental understanding of the sodium thiosulfate-hydrogen peroxide reaction. Specifically, we focus on:
 
