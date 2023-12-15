@@ -21,10 +21,22 @@ In this study, we aim to provide a comprehensive analysis of this reaction by in
 4) Analyze the stability of the steady-state points of the reaction.
 5) Conduct sensitivity analysis to determine the influence of different parameters on the reaction and identify key factors that significantly affect the reaction.
 
+c) The mathmatical model
+
+
+dCa/dt = (F/V) * (Cai - Ca) - k * Ca * Cb
+dCb/dt = (F/V) * (Cbi - Cb) - 2 * k * Ca * Cb
+dCp/dt = (F/V) * (Cpi - Cp) + 0.5 * k * Ca * Cb
+dT/dt = [(F/V) * (Ti - T)] - [(UA * (T - Tj)) / (V * ρ * Cp)] + [ΔH * k * Ca * Cb/ (ρ * Cp)]
+
+k = k₀ * exp(-E / (R * T))
+
+
 
 
 
 ## 2) Explanation and presentation of problem and data
+
 ## 3) Parameter and data fitting
 ## 4) Bifurcation analysis
 ## 5) Sensitivity analysis 
