@@ -96,7 +96,6 @@ By carefully adjusting parameters such as the flow rate and volume, the data was
 
 
 
-𝑑𝑇/𝐶𝑡=𝐹/𝑉 (𝑇𝑖 −𝑇)−𝑈𝐴/(𝑉𝜌𝐶_𝑝 ) (𝑇−𝑇𝑗)+(∆𝐻_𝑟𝑥𝑛  𝑘 𝐶𝑎 𝐶𝑏)/(𝜌𝐶_𝑝 )
 
 
 
