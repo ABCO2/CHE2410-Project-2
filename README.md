@@ -54,6 +54,11 @@ p is Na2S3O6
 
 
 
+## 2) Explanation and presentation of problem and data
+
+
+
+
 Many researchers have studied this reaction, but not all of them have conducted experimental data. However, Puigjaner et al. (2002) have carried out a comprehensive investigation, resulting in a highly professional piece of work.
 
 Concentration profile
@@ -64,23 +69,35 @@ Temperature profile
 
 ![297k](https://github.com/ABCO2/CHE2410-Project-2/assets/144171865/78c2d58a-691d-4caa-a9fb-7b610cef7996)
 
-## 2) Explanation and presentation of problem and data
 
 Parameters were used:
 
 V = 100  # L
+
 F =  0.1 # L/s
+
 UA = 0.1  # J/sK
+
 roh = 1000  # g/L
+
 dH = 547100  # J/mol
+
 CP = 4.2  # J/gK
+
 ko = 685000000000  # L/(s mol)
+
 E = 76534.704  # J/mol
+
 R = 8.314  # J/(mol K)
+
 Ti = 297  # K
+
 Tj = 250  # K
+
 Cai = 0.3 #mol/l
+
 Cbi = 0.45
+
 Cpi = 0
 
 ## 3) Parameter and data fitting
@@ -144,6 +161,10 @@ and Schmitz, (1970), concluded to the same.
 
 ![image](https://github.com/ABCO2/CHE2410-Project-2/assets/144171865/db6cd80a-9498-4805-89cc-22359ff8a0f7)
 
+
+The purpose of this study was to analyze the behavior of a chemical reaction over time using a mathematical model. By adjusting parameters such as flow rate, volume, reaction rate, initial temperature, and initial concentrations.
+
+From the generated plots, it can be observed that the temperature (T) of the reaction varies over time for different parameter combinations. The variations in flow rate, volume, reaction rate, initial temperature, initial concentrations, and other parameters influence the heat loss experienced by the system. It is important to note that the presence of variations and time delays caused by heat loss and the experimental setup can introduce uncertainties in the measurements.
 
 
 ## 6) Conclusions and implications
