@@ -162,9 +162,11 @@ and Schmitz, (1970), concluded to the same.
 ![image](https://github.com/ABCO2/CHE2410-Project-2/assets/144171865/db6cd80a-9498-4805-89cc-22359ff8a0f7)
 
 
-The purpose of this study was to analyze the behavior of a chemical reaction over time using a mathematical model. By adjusting parameters such as flow rate, volume, reaction rate, initial temperature, and initial concentrations.
 
-From the generated plots, it can be observed that the temperature (T) of the reaction varies over time for different parameter combinations. The variations in flow rate, volume, reaction rate, initial temperature, initial concentrations, and other parameters influence the heat loss experienced by the system. It is important to note that the presence of variations and time delays caused by heat loss and the experimental setup can introduce uncertainties in the measurements.
+In this section, a sensitivity analysis was conducted by adjusting parameters such as flow rate, volume, reaction rate, initial temperature, and initial concentrations. From the generated plots, it can be observed that the temperature (T) of the reaction varies over time for different parameter combinations. The variations in flow rate, volume, reaction rate, initial temperature, initial concentrations, and other parameters influence the heat loss experienced by the system. It is important to note that the presence of variations and time delays caused by heat loss and the experimental setup can introduce uncertainties in the measurements.
 
 
 ## 6) Conclusions and implications
+
+
+In summary, this study aimed to provide a comprehensive analysis of the sodium thiosulfate-hydrogen peroxide reaction. Through the development of mathematical models and the fitting of experimental data, we were able to gain a deeper understanding of the reaction dynamics. The bifurcation analysis revealed the existence of stable and unstable steady-state points, shedding light on the system's behavior and stability. Additionally, the sensitivity analysis highlighted the influence of various parameters on the reaction, emphasizing the importance of controlling these factors for accurate predictions and simulations. Overall, this study contributes to the foundational knowledge of the sodium thiosulfate-hydrogen peroxide reaction.
