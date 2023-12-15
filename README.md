@@ -137,6 +137,14 @@ at SS
 ![image](https://github.com/ABCO2/CHE2410-Project-2/assets/144171865/f72f3e35-495e-43c9-a9e9-300cf198de0e)
 
 
+
+![image](https://github.com/ABCO2/CHE2410-Project-2/assets/144171865/6ce14134-6f12-4acf-b746-dcb79d7b3687)
+
+
+C. Kravaris et al. (2000)
+
+
+
 ![image](https://github.com/ABCO2/CHE2410-Project-2/assets/144171865/a4566fe9-6225-45e5-b54b-c17ff6a2ad5b)
 
 ![image](https://github.com/ABCO2/CHE2410-Project-2/assets/144171865/09cd93f4-db6e-4d87-b373-99ca8787caab)
