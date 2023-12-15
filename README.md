@@ -101,6 +101,21 @@ By carefully adjusting parameters such as the flow rate and volume, the data was
 
 ![image](https://github.com/ABCO2/CHE2410-Project-2/assets/144171865/01b9ca1d-dc8c-4cb5-8d63-cf6c389b0df7)
 
+
+at SS
+
+
+![image](https://github.com/ABCO2/CHE2410-Project-2/assets/144171865/6047ccff-ae15-4bb8-83e2-3850a2018cf8)
+
+
+
+![image](https://github.com/ABCO2/CHE2410-Project-2/assets/144171865/7e97044c-2f56-418f-80c3-0d9ac6bffb85)
+
+
+![image](https://github.com/ABCO2/CHE2410-Project-2/assets/144171865/77e4cc33-d32c-4e9e-a89e-26b80001a8ea)
+
+
+
 ![image](https://github.com/ABCO2/CHE2410-Project-2/assets/144171865/f72f3e35-495e-43c9-a9e9-300cf198de0e)
 
 
@@ -114,6 +129,9 @@ By carefully adjusting parameters such as the flow rate and volume, the data was
 ![image](https://github.com/ABCO2/CHE2410-Project-2/assets/144171865/92c2762b-6675-41e6-a541-03b4ce0af3b8)
 
 
+
+As we can see in this section, a bifurcation analysis was conducted, which aimed to investigate the dynamic behavior of a system. The results revealed the existence of three steady-state (SS) points. The first SS point was found to be stable (at t=271.43 K), indicating that the system would converge towards this point under certain conditions. The second SS point (208.25 K), however, was found to be unstable, suggesting that the system would not remain at this point and might exhibit unpredictable behavior. Finally, the third SS point (375.9 K) was identified as stable, indicating that the system would also converge towards this point under specific conditions. These findings provide valuable insights into the behavior and stability of the system studied. Vejtasa
+and Schmitz, (1970), concluded to the same.
 
 ## 5) Sensitivity analysis 
 
