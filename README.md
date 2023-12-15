@@ -57,9 +57,11 @@ p is Na2S3O6
 Many researchers have studied this reaction, but not all of them have conducted experimental data. However, Puigjaner et al. (2002) have carried out a comprehensive investigation, resulting in a highly professional piece of work.
 
 Concentration profile
+
 ![Conc](https://github.com/ABCO2/CHE2410-Project-2/assets/144171865/c7da556f-326c-4a76-8598-cad07ea202a5)
 
 Temperature profile
+
 ![297k](https://github.com/ABCO2/CHE2410-Project-2/assets/144171865/78c2d58a-691d-4caa-a9fb-7b610cef7996)
 
 ## 2) Explanation and presentation of problem and data
@@ -91,5 +93,31 @@ By carefully adjusting parameters such as the flow rate and volume, the data was
 ![image](https://github.com/ABCO2/CHE2410-Project-2/assets/144171865/f3c4fbd0-d52f-435e-ba78-ecd050335081)
 
 ## 4) Bifurcation analysis
+
+
+𝑑𝑇/𝐶𝑡=𝐹/𝑉 (𝑇𝑖 −𝑇)−𝑈𝐴/(𝑉𝜌𝐶_𝑝 ) (𝑇−𝑇𝑗)+(∆𝐻_𝑟𝑥𝑛  𝑘 𝐶𝑎 𝐶𝑏)/(𝜌𝐶_𝑝 )
+
+![image](https://github.com/ABCO2/CHE2410-Project-2/assets/144171865/01b9ca1d-dc8c-4cb5-8d63-cf6c389b0df7)
+
+![image](https://github.com/ABCO2/CHE2410-Project-2/assets/144171865/f72f3e35-495e-43c9-a9e9-300cf198de0e)
+
+
+![image](https://github.com/ABCO2/CHE2410-Project-2/assets/144171865/a4566fe9-6225-45e5-b54b-c17ff6a2ad5b)
+
+![image](https://github.com/ABCO2/CHE2410-Project-2/assets/144171865/09cd93f4-db6e-4d87-b373-99ca8787caab)
+
+![image](https://github.com/ABCO2/CHE2410-Project-2/assets/144171865/6519bc0d-65bb-41d4-ada8-5410f6d81e59)
+
+
+![image](https://github.com/ABCO2/CHE2410-Project-2/assets/144171865/92c2762b-6675-41e6-a541-03b4ce0af3b8)
+
+
+
 ## 5) Sensitivity analysis 
+
+
+![image](https://github.com/ABCO2/CHE2410-Project-2/assets/144171865/db6cd80a-9498-4805-89cc-22359ff8a0f7)
+
+
+
 ## 6) Conclusions and implications
