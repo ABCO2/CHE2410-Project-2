@@ -85,12 +85,13 @@ Cpi = 0
 
 ## 3) Parameter and data fitting
 
-By carefully adjusting parameters such as the flow rate and volume, the data was effectively fitted. The paper acknowledges potential variations and time delays due to heat loss and the experimental setup.
+By carefully adjusting parameters such as the flow rate and volume, the data was effectively fitted. The paper acknowledges potential variations and time delays due to heat loss and the experimental setup. Puigjaner et al. (2002).
 
 ![image](https://github.com/ABCO2/CHE2410-Project-2/assets/144171865/ec069336-1a9f-4974-98c9-af653922cee6)
 
 
 ![image](https://github.com/ABCO2/CHE2410-Project-2/assets/144171865/f3c4fbd0-d52f-435e-ba78-ecd050335081)
+
 
 ## 4) Bifurcation analysis
 
@@ -128,6 +129,11 @@ at SS
 
 ![image](https://github.com/ABCO2/CHE2410-Project-2/assets/144171865/92c2762b-6675-41e6-a541-03b4ce0af3b8)
 
+Also, the eigenvalues and eigenvectors were calculated, and it was found that the system at t = 308.25 K is not stable.
+
+Eigenvalues: [18.17503513 -0.3947288 ]
+Eigenvectors: [[0.00000000e+00 1.00000000e+00]
+ [1.00000000e+00 1.88623717e-06]]
 
 
 As we can see in this section, a bifurcation analysis was conducted, which aimed to investigate the dynamic behavior of a system. The results revealed the existence of three steady-state (SS) points. The first SS point was found to be stable (at t=271.43 K), indicating that the system would converge towards this point under certain conditions. The second SS point (208.25 K), however, was found to be unstable, suggesting that the system would not remain at this point and might exhibit unpredictable behavior. Finally, the third SS point (375.9 K) was identified as stable, indicating that the system would also converge towards this point under specific conditions. These findings provide valuable insights into the behavior and stability of the system studied. Vejtasa
